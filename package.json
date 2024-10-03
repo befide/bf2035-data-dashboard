@@ -36,11 +36,11 @@
 		"start": "astro dev"
 	},
 	"dependencies": {
-		"@astrojs/sitemap": "^1.1.0",
-		"@astrojs/tailwind": "^3.0.1",
+		"@astrojs/sitemap": "^3.1.6",
+		"@astrojs/tailwind": "^5.1.1",
 		"@faker-js/faker": "^7.6.0",
 		"apexcharts": "^3.37.2",
-		"astro": "^2.0.4",
+		"astro": "^4.15.10",
 		"flowbite": "^2.1.1",
 		"flowbite-typography": "^1.0.3",
 		"shiki": "^0.14.1",
@@ -61,5 +61,6 @@
 		"eslint-plugin-import": "^2.27.5",
 		"eslint-plugin-prettier": "^4.2.1",
 		"eslint-plugin-tsdoc": "^0.2.17"
-	}
+	},
+	"packageManager": "pnpm@9.10.0+sha512.73a29afa36a0d092ece5271de5177ecbf8318d454ecd701343131b8ebc0c1a91c487da46ab77c8e596d6acf1461e3594ced4becedf8921b074fbd8653ed7051c"
 }
